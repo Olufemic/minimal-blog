@@ -228,7 +228,7 @@
           display: none;
         }
         .hero-section h1 {
-          font-size: 36px;
+          font-size: 48px;
         }
         .view-section {
             width: 90%;
@@ -258,8 +258,8 @@
 
 
       @media (min-width: 425px) {
-        .hero-section h1 {
-          font-size: 28px;
+        .hero-section h1 {;
+          font-size: 45px;
         }
         .newsletter-section input {
           width: 100%;
